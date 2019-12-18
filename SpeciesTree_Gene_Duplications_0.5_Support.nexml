@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><nex:nexml xmlns:nex="http://www.nexml.org/2009" xmlns="http://www.nexml.org/2009" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generator="org.nexml.model.impl.DocumentImpl" version="0.9" xmlns:root="">
+  <otus id="otus1"/>
+  <trees id="trees2" otus="otus1">
+    <tree about="#tree3" id="tree3" label="Tree1" xsi:type="nex:FloatTree">
+      <meta content="node4" datatype="xsd:string" id="meta33" property="root" xsi:type="nex:LiteralMeta"/>
+      <node id="node4" label="N0_247"/>
+      <node id="node5" label="B_floridae_protein_13076"/>
+      <node id="node6" label="N1_1499"/>
+      <node id="node7" label="D_rerio_protein_30865"/>
+      <node id="node8" label="N2_177"/>
+      <node id="node9" label="C_milii_protein_11186"/>
+      <node id="node10" label="N3_763"/>
+      <node id="node11" label="G_gallus_protein_31494"/>
+      <node id="node12" label="N4_5429"/>
+      <node id="node13" label="M_musculus_protein_57313"/>
+      <node id="node14" label="N5_11404"/>
+      <node id="node15" label="N6_13575"/>
+      <node id="node16" label="P_troglogytes_protein_29899"/>
+      <node id="node17" label="H_sapiens_protein_53750"/>
+      <node id="node20" label="M_mulatta_protein_30070"/>
+      <edge id="edge18" length="0.00505683" source="node15" target="node16"/>
+      <edge id="edge19" length="1.72743E-6" source="node15" target="node17"/>
+      <edge id="edge21" length="0.0136604" source="node14" target="node15"/>
+      <edge id="edge22" length="0.0138362" source="node14" target="node20"/>
+      <edge id="edge23" length="0.0754265" source="node12" target="node13"/>
+      <edge id="edge24" length="0.0570647" source="node12" target="node14"/>
+      <edge id="edge25" length="0.165275" source="node10" target="node11"/>
+      <edge id="edge26" length="0.114745" source="node10" target="node12"/>
+      <edge id="edge27" length="0.241764" source="node8" target="node9"/>
+      <edge id="edge28" length="0.0683799" source="node8" target="node10"/>
+      <edge id="edge29" length="0.256811" source="node6" target="node7"/>
+      <edge id="edge30" length="0.0531773" source="node6" target="node8"/>
+      <edge id="edge31" length="0.331182" source="node4" target="node5"/>
+      <edge id="edge32" length="0.331182" source="node4" target="node6"/>
+    </tree>
+  </trees>
+</nex:nexml>
