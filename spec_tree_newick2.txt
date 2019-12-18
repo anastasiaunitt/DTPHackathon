@@ -1,0 +1,1 @@
+(((C_milii_protein,(D_rerio_protein,(G_gallus_protein,(((H_sapiens_protein,P_troglodytes_protein)Homininae,M_mulatta_protein)Catarrhini,M_musculus_protein)Euarchontoglires)Amniota)Euteleostomi)Gnathostomata,B_floridae_protein)Chordata);
