@@ -1,0 +1,1 @@
+((C_milii_protein:1,(D_rerio_protein:1,(G_gallus_protein:1,(((H_sapiens_protein:1,P_troglogytes_protein:1)N6:1,M_mulatta_protein:1)N5:1,M_musculus_protein:1)N4:1)N3:1)N2:1)N1:1,B_floridae_protein:1)N0;
