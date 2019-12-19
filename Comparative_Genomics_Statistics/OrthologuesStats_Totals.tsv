@@ -1,0 +1,9 @@
+	B_floridae_protein	C_milii_protein	D_rerio_protein	G_gallus_protein	H_sapiens_protein	M_mulatta_protein	M_musculus_protein	P_troglogytes_protein
+B_floridae_protein	0.0	11455.0	12335.0	10557.0	11104.0	11160.0	11207.0	11166.0
+C_milii_protein	15588.0	0.0	21723.0	21281.0	22031.0	21938.0	21824.0	21840.0
+D_rerio_protein	23120.0	30735.0	0.0	29745.0	31401.0	31049.0	31029.0	31039.0
+G_gallus_protein	25451.0	37703.0	36789.0	0.0	40198.0	39785.0	39642.0	39884.0
+H_sapiens_protein	52662.0	74338.0	72968.0	76225.0	0.0	83937.0	87216.0	85154.0
+M_mulatta_protein	33468.0	46806.0	46377.0	48019.0	56482.0	0.0	55624.0	56171.0
+M_musculus_protein	39867.0	56565.0	55660.0	58412.0	69435.0	67616.0	0.0	67148.0
+P_troglogytes_protein	38780.0	54519.0	53600.0	56033.0	65900.0	63259.0	63925.0	0.0
